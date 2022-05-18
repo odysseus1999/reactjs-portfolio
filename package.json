@@ -1,5 +1,5 @@
 {
-    "homepage": "http://ubaimutl.github.io/react-portfolio",
+    "homepage": "",
     "name": "react-portfolio",
     "version": "0.1.0",
     "private": true,
@@ -20,6 +20,7 @@
         "react-router-dom": "^5.2.0",
         "react-scripts": "4.0.1",
         "react-transition-group": "^4.4.2",
+        "sitemap": "^7.1.1",
         "typewriter-effect": "^2.18.2",
         "web-vitals": "^0.2.4"
     },
